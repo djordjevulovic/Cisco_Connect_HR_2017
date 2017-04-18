@@ -24,4 +24,10 @@ In here, you will find material presented in Cisco Connect Croatia 2017, held in
 - [Presentation](https://github.com/djordjevulovic/Cisco_Connect_HR_2017/blob/master/NETCONF%20YANG%20Programming.pdf)
 - [NETCONF/YANG sample app](https://github.com/djordjevulovic/Cisco_Connect_HR_2017/blob/master/NETCONF_YANG.py)
 
+# This is how it was! Thanks to everyone who participated!
+
+- [Photo#1](https://github.com/djordjevulovic/Cisco_Connect_HR_2017/blob/master/106.jpg)
+- [Photo#2](https://github.com/djordjevulovic/Cisco_Connect_HR_2017/blob/master/107.jpg)
+
+
  
